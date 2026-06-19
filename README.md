@@ -1,6 +1,6 @@
-# ClipThing
+# VideoNoire (clipthing)
 
-ClipThing is a small Qt/C++ desktop video editor focused on fast clip-and-join workflows with a simple multi-track timeline.
+VideoNoire is a small Qt/C++ desktop video editor focused on fast clip-and-join workflows with a simple multi-track timeline.
 
 Current scope:
 
